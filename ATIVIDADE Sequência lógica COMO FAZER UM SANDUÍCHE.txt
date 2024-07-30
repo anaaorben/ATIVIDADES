@@ -1,0 +1,27 @@
+DATA: 30/07/2024
+NOME: Ana Laura Orben
+ATIVIDADE: Sequência lógica: COMO FAZER UM SANDUÍCHE
+
+Vá até o armário;
+Pegue duas fatias de pão;
+Coloque as fatias de pão sobre a mesa;
+Abra a geladeira;
+Pegue o pote de margarina;
+Coloque o pote de margarina sobre a mesa;
+Abra o pote de margarina;
+Vá até a gaveta;
+Pegue uma faca;
+Passe a faca na margarina;
+Passe a faca com margarina em uma fatia de pão;
+Passe a faca na margarina;
+Passe a faca com margarina em outra fatia de pão;
+Vá até a geladeira;
+Abra a geladeira;
+Pegue uma fatia de presunto;
+Pegue uma fatia de queijo;
+Feche a geladeira;
+Coloque a fatia de queijo sobre uma fatia de pão;
+Coloque a fatia de presunto sobre a fatia de queijo;
+Pegue a outra fatia de pão;
+Coloque sobre a fatia de presunto;
+Coma o sanduíche.

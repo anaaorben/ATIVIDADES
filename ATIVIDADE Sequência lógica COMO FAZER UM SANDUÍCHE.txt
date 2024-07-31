@@ -2,26 +2,68 @@ DATA: 30/07/2024
 NOME: Ana Laura Orben
 ATIVIDADE: Sequência lógica: COMO FAZER UM SANDUÍCHE
 
+Vá até a cozinha;
 Vá até o armário;
-Pegue duas fatias de pão;
-Coloque as fatias de pão sobre a mesa;
-Abra a geladeira;
-Pegue o pote de margarina;
-Coloque o pote de margarina sobre a mesa;
-Abra o pote de margarina;
-Vá até a gaveta;
-Pegue uma faca;
-Passe a faca na margarina;
-Passe a faca com margarina em uma fatia de pão;
-Passe a faca na margarina;
-Passe a faca com margarina em outra fatia de pão;
+Abra o armário coma a mão direita;
+Pegue o pacote do pão no armário com a mão esquerda;
+Retire o pacote de pão do armário;
+Feche o armário com a mão direita;
+Retire a mão direita do armário;
+Vá até a mesa;
+Coloque o pacote de pão delicadamente sobre a mesa;
 Vá até a geladeira;
-Abra a geladeira;
-Pegue uma fatia de presunto;
-Pegue uma fatia de queijo;
+Abra a geladeira com a mão direita;
+Pegue o pote de margarina com a mão esquerda;
+Retire o pote de margarina da geladeira;
 Feche a geladeira;
-Coloque a fatia de queijo sobre uma fatia de pão;
-Coloque a fatia de presunto sobre a fatia de queijo;
-Pegue a outra fatia de pão;
-Coloque sobre a fatia de presunto;
-Coma o sanduíche.
+Retire a mão direita da geladeira;
+Vá até a mesa;
+Coloque o pote de margarina delicadamente sobre a mesa;
+Segure o pote de margarina com a mão esquerda;
+Retire a tampa com a mão direita;
+Solte a tampa delicadamente sobre a mesa;
+Retire a mão esquerda do pote de margarina;
+Vá até a gaveta de talheres;
+Abra a gaveta com a mão direita;
+Pegue uma faca com a mão esquerda;
+Tire a faca da gaveta;
+Feche a gaveta;
+Retire a mão direita da gaveta;
+Vá até a mesa;
+Coloque delicadamente a faca sobre a mesa;
+Abra o pacote de pão com as duas mãos;
+Coloque a mão direita dentro do pacote;
+Retire duas fatias de pão do pacote com a mão direita;
+Coloque as fatias de pão uma do lado da outra delicadamente sobre a mesa;
+Segure o pote de margarina com a mão esquerda;
+Pegue a faca com a mão direita;
+Passe a faca na margarina;
+Retire a mão esquerda do pote de margarina;
+Segure a fatia de pão que está no lado esquerdo da mesa com a mão esquerda;
+Passe a faca com margarina na fatia de pão que está no lado esquerdo da mesa;
+Retire a mão esquerda da fatia de pão;
+Segure o pote de margarina com a mão esquerda;
+Passe a faca na margarina;
+Retire a mão esquerda do pote de margarina;
+Segure a fatia de pão que está no lado direito da mesa com a mão esquerda;
+Passe a faca com margarina na fatia de pão que esta do lado direito da mesa;
+Retire a mão esquerda da fatia do pão;
+Solte a faca delicadamente sobre o pote de margarina;
+Vá até a geladeira;
+Abra a geladeira com a mão direita;
+Pegue o pote de presunto e queijo com a mão esquerda;
+Retire o pote de presunto e queijo da geladeira;
+Feche a geladeira;
+Retire a mão direita da geladeira;
+Vá até a mesa;
+Coloque o pote de presunto e queijo delicadamente sobre a mesa;
+Abra o pote de presunto de queijo com a mão direita;
+Pegue uma fatia de queijo com a mão esquerda;
+Coloque a fatia de queijo delicadamente sobre o pão do lado esquerdo da mesa;
+Pegue uma fatia de presunto com a mão esquerda;
+Coloque a fatia de presunto delicadamente sobre o queijo que está sobre o pão;
+Pegue a outra fatia de pão com a mão direita;
+Coloque sobre a fatia de presunto que está sobre o queijo;
+
+
+
